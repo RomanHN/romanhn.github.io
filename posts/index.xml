@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Roman Hauksson</title>
-    <link>https://roman.computer/</link>
-    <description>Recent content on Roman Hauksson</description>
+    <title>Posts on Roman Hauksson</title>
+    <link>https://roman.computer/posts/</link>
+    <description>Recent content in Posts on Roman Hauksson</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://roman.computer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://roman.computer/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>the 2/3 rule for multi-factor authentication</title>
       <link>https://roman.computer/mfa/</link>
@@ -24,8 +24,6 @@
       <description>Isn&amp;rsquo;t the internet such a magically useful tool? Thirty years ago, if you wanted to know how many plays Shakespeare wrote, you would have to physically walk to your local library and find a relevant book. Now, you can find the answer in less than ten seconds, at any time, wherever you are.
 However, the internet is not a truthful, superintelligent oracle. Rather, it&amp;rsquo;s a dangerous jungle of knowledge you must learn to navigate if you wish to find the truth.</description>
     </item>
-    
-    
     
   </channel>
 </rss>
