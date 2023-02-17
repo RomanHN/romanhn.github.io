@@ -5,7 +5,16 @@
     <link>https://roman.computer/posts/</link>
     <description>Recent content in Posts on Roman Hauksson</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://roman.computer/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://roman.computer/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>avoid large group discussions in your social events</title>
+      <link>https://roman.computer/discussions/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://roman.computer/discussions/</guid>
+      <description>If you&amp;#39;re organizing an social event, I strongly recommend that you structure it in a way that encourages small group discussions over large ones.</description>
+    </item>
+    
     <item>
       <title>the 2/3 rule for multi-factor authentication</title>
       <link>https://roman.computer/mfa/</link>
